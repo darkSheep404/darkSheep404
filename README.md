@@ -1,4 +1,4 @@
-### Hi there 👋
+### 
 
 <!--
 **darkSheep404/darkSheep404** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,6 +15,14 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <h1 align="center">Hi 👋, I'm DarkSheep404</h1>
+
+<img src="https://commit-craft.wjz-p.workers.dev/api/banner/darkSheep404/repos.svg" alt="spring" width="200" height="200"/><img src="https://commit-craft.wjz-p.workers.dev/api/banner/darkSheep404/commits.svg" alt="spring" width="200" height="200"/><img src="https://commit-craft.wjz-p.workers.dev/api/banner/darkSheep404/issues.svg" alt="spring" width="200" height="200"/>   <img src="https://commit-craft.wjz-p.workers.dev/api/banner/darkSheep404/prs.svg" alt="spring" width="200" height="200"/> <img src="https://commit-craft.wjz-p.workers.dev/api/banner/darkSheep404/stars.svg" alt="spring" width="200" height="200"/>
+<img src="https://commit-craft.wjz-p.workers.dev/api/banner/darkSheep404/merged.svg" alt="spring" width="200" height="200"/>
+
+
+
+
+
 
 
 
